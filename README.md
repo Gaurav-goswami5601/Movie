@@ -1,2 +1,292 @@
-# Movie
-Top Horror, Action and love story Movies
+<!DOCTYPE>
+<html lang="en">
+<html>
+    <head>
+    <title> The Best Gaming Webpage </title>
+    <meta charset="UTF-8">
+    <meta 
+    name="description"
+    content="Get the latest game news, reviews, tips, and more. Whether you're a casual gamer or a pro, we've got what you need to stay ahead of the game." >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Gaurav">
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <html lang="en" { scroll-behavior:smooth; }></html>
+     <body class="xyz">
+     <link rel="stylesheet"
+     href="https://fonts.googleapis.com/css?family=Lobster">
+
+
+             <!-- Our header -->
+         <header>
+            <div class="logo">
+                <a href="#" tabindex="_blank">
+                    <img src="image.png" alt="GauravXPZone logo">
+                </a>
+            </div>
+         </header>
+
+         <h1>The Best Gaming Webpage</h1>
+        <ul class="hom" style="list-style: none; display: flex; gap: 15px" >
+            <li> <a href="" target="#"> Home </a></li>
+            <li> <a href="" target="#"> About </a></li>
+            <li> <a href="" target="#"> Service </a></li>
+            <li> <a href="#Website Owner" target="#"> Contact </a></li>
+         </ul>
+         <br><br><hr>
+        <!-- BR tag is use for line break -->
+
+
+
+
+         <!-- hero section -->
+          <main>
+         <h2>🎮Welcome Gamerz🎮</h2> 
+         <br>
+         <br>
+         <br>
+        <pre>Welcome to <strong> {THE BEST 🎮GAMING🎮 WEBPAGE} </strong> , your go-to spot for the latest game news, tips, 
+            and reviews. Stay updated, level up, and join our community of passionate gamers!</pre>
+
+            <!-- hero section image -->
+             <div class="hero-image">
+                <figure>
+                    <img src="pexels-lulizler-3165335.jpg" 
+                    alt="hero section image"
+                    width="500"
+                    height="auto"
+                    style="border-radius: 10px;"
+             </figure>
+             </div>
+             <a href="https://www.instagram.com/gaurav_goswami79/" target="_blank"><button>Visit Profile</button></a>
+            </main>
+            <h2>My Gaming knowledge👇</h2>
+            <div class="about-progress">
+                <label for="html">PVP Games: </label>
+                <progress id="html" max="90" value="90"></progress>
+            </div>
+
+            <div class="about-progress">
+                <label for="html">Car Games: </label>
+                <progress id="html" max="100" value="70"></progress>
+            </div>
+
+            <div class="about-progress">
+                <label for="html">Mind Games: </label>
+                <progress id="html" max="100" value="90"></progress>
+            </div>
+            <div class="about-progress">
+                <label for="html">Parkour Games: </label>
+                <progress id="html" max="100" value="100"></progress>
+            </div>
+            <br><br>
+
+            <!-- Best Gaming Pictures -->
+             <section class="Service-section">
+                <h2>The best Gaming Pictures</h2>
+                <div class="Service-gallery" style="display: flex;">
+                    <figure>
+                        <img src="fire.png" 
+                        alt="Gaming pictures"
+                        width="200"
+                        height="125"
+                        style="border-radius: 10px;">
+                        <figcaption>Joystick with Fire</figcaption>
+                    </figure>
+
+                    <figure>
+                        <img src="fire.png" 
+                        alt="Gaming pictures"
+                        width="200"
+                        height="125"
+                        style="border-radius: 10px;">
+                        <figcaption>Joystick with Fire</figcaption>
+                    </figure>
+
+                    <figure>
+                        <img src="fire.png" 
+                        alt="Gaming pictures"
+                        width="200"
+                        height="125"
+                        style="border-radius: 10px;">
+                        <figcaption>Joystick with Fire</figcaption>
+                    </figure>
+
+                    <figure>
+                        <img src="fire.png" 
+                        alt="Gaming pictures"
+                        width="200"
+                        height="125"
+                        style="border-radius: 10px;">
+                        <figcaption>Joystick with Fire</figcaption>
+                    </figure>
+                </div>
+             </section>
+        
+        <!-- hr tag use to make a Horizontal line in webpage -->
+         <br><br>
+         <h2>👉We are providing👈</h2>
+         
+           <ul style="list-style-type: square;" strong>
+            <li>In-depth gaming guides, expert tips, and strategies to help you level up your gaming skills.</li>
+            <li>The latest gaming news, updates, and trends to keep you ahead of the curve in the gaming world.</li>
+            <li>Comprehensive reviews, walkthroughs, and tutorials on your favorite games and upcoming releases.</li>
+            <li>Expert insights, tips, and tricks for gamers of all levels, from beginners to pros.</li>
+            <li>A knowledge hub with detailed articles, guides, and how-tos on everything from game mechanics to industry trends.</li>
+            <li>A deep dive into game design, mechanics, lore, and strategy, offering you the tools to master any game.</li>
+            <li>Actionable strategies and tactics to help you succeed in your favorite titles—whether you &apos; re conquering solo or teaming up online.</li>
+            <li>An ever-growing library of gaming resources, including tutorials, game analysis, and news to fuel your passion.</li>
+            <li>Insightful content that covers everything from game lore and history to competitive gaming strategies and esports analysis.</li>
+            <li>Expert-level advice and in-depth reviews to help you make informed decisions and stay on top of the latest gaming trends.</li>
+        </ul>
+        </p>
+        <br><br><br><br><br>
+        <h2>👉Top 10 Famus Games🎮👈</h2>
+        <ul style="list-style-type:decimal;">
+              <strong>
+                <li>Ludo King</li>
+                <li>Free Fire Max</li>
+                <li>Zupee:Ludo Games Online</li>
+                <li>Comics Bob</li>
+                <li>Perfect Fit</li>
+                <li>Slither Adventure Quest</li>
+                <li>Car Race 3D:Car Racing</li>
+                <li>Indian Bikes Driving 3D</li>
+                <li>Hill Climb Racing</li>
+                <li>Carrom Pool:Disc Game</li></ul>
+       </strong>
+        <br>
+        <br>
+
+        <!-- Social Media link section -->
+         <section class="SocialMedia-link-section"></section>
+         <h2> <strong>Hope you like my Social Media Account</strong> </h2>
+         <ul>
+            <li>
+                <a href="https://www.youtube.com/@phrparvesh2178" target="_blank">Please Subscribe My Youtube Channel</a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/gaurav_goswami79/" target="_blank">Please Follow me on Instagram</a>
+            </li>
+         </ul>
+
+        <!-- Wallpaper -->
+         <section class="wallpaper-link-section"></section>
+         <h2>
+            Free Fire Wallpaper👇
+         </h2>
+        <picture>
+        <source srcset="Screenshot-2024-01-24-081507.png" alt="Free FIRE Wallpaper👈">
+
+        <img src="Screenshot-2024-01-24-081507.png" 
+        alt="Free Fire wallpaper" 
+        width="500" 
+        height="auto"
+        style="border-radius: 10px;">
+        <a href="./Screenshot-2024-01-24-081507.zip" download> <strong>👉Download Free Fire Wallpaper👈</strong></a> 
+        </picture>
+        <figure>
+       
+     <figcaption>The Best Wallpaper👈</figcaption>
+     </figure>
+
+      
+             <br>
+             <br>
+
+             <p style="color:green;"><strong>This webpage is made in India</p></strong>
+
+             <br>
+
+        <p>
+            <hr><hr>
+            <h2 id="Website Owner"> 👉Website Owner👈</h2>
+
+            I<strong> <small><s>Gaurav</s></small><mark><u>Gaurav</u></mark> </strong></p><br>
+
+            <a href="mailto:gauravgoawami96@gmail.com">Send email to Gaurav</a><br><br><a href="https://www.instagram.com/gaurav_goswami79/" target="_blank">Message Me</a><br><br>
+            <a href="https://www.youtube.com/@phrparvesh2178" target="_blank">Subscribe me on Youtube</a>
+             <!-- target = _blank Tag is use for linked content will be displayed on a new Window/Tag -->
+            <!-- U Tag is use for Underline -->
+            <!-- MARK tag is use for highlight anything -->
+            <!-- S tag is use for Strikethrough and DEL tag is also same --> 
+             <br><br>
+
+             <!-- spiner -->
+             
+             <!--<head>
+             <style>
+                .spiner{
+                    background-color: orangered;
+                    height: 200px;
+                    width: 200px;
+                    border-radius: 50%;
+                    border: 25px solid #efefef;
+                    border-top: 20px solid indigo;
+                    animation: ani 1s linear infinite;
+                }
+                @keyframes ani{
+                    to{
+                        transform: rotate(360deg);
+                    }
+                }
+             </style>
+             </head> -->
+        
+             
+             <!-- <iframe src="https://www.wikipedia.org/" frameborder="0"
+             width="100%"
+             height="500">
+             <hr> -->
+
+
+             <h2>Best Gaming Background 🎶Music🎶👇👇</h2>
+             <audio controls autoplay loop>
+               <source src="./retro-gaming-271301.mp3">
+               <source src="./retro-gaming-271301.wpeg">
+             </audio>
+             <br>
+             <br>
+             <br>
+             <br>
+             <div>
+            <label for="Username">Username:</label>
+            <input type="text" id="Username" placeholder="Enter your password" name="Username" required/>
+            <div>
+                <label for="email">Enter your email:</label>
+                <input type="email" id="email" placeholder="Enter your email" name="email" autocomplete="off" required/>
+            </div>
+            <div>
+                <label for="Password">Password:</label>
+                <input type="password" id="password" placeholder="Enter your password" name="Password" autocomplete="off" required />
+            </div>
+            <div>
+                <label for="gender">Gender:</label>
+                <input type="radio" name="gender" value="music" name="Gender"/>male
+                <input type="radio" name="gender" value="sports" name="Gender"/>female
+            </div>
+            <div>
+                <label for="submit"></label>
+                <input type="submit" value="submit" name="submit"/>
+            </div>
+            <body>
+                <p class="hlo">
+                hello every body 
+            </p>
+            </body>
+
+            
+
+    <body>
+        <div class="spiner"></div><br>
+        <br>
+        <br>
+        <footer>
+            <p>
+                Copyright &copy;2025 All right reserved | This template is made with 💖 by Gaurav
+            </p>
+        </footer>
+    </body>
+</html>
+
